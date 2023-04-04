@@ -1,2 +1,2 @@
-# Telivisionservicecenter
-Telivision service centre
+# Televisionservicecenter
+Television service centre
